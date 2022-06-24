@@ -15,19 +15,6 @@
   height: 100%;
   grid-template-rows: 50px 1fr 50px;
 }
-.header{
-  grid-area: header;
-}
-.header,footer{
-  background-color: #2a5ea5;
-  color: white;
-  text-align: center;
-  line-height: 50px;
-  font-size: 20px;
-}
 main{
   grid-area: main;
-}
-footer{
-  grid-area: footer;
 }
